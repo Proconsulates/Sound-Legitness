@@ -8,4 +8,8 @@ An ear-bleeding app because why not ;)
 
 
 ## Socials
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+If you have any suggestions or bug fixes, we are accepting pull requests!<br/>
+> [@Proconsulates CodePen](https://codepen.io/proconsulates/)<br/>
+> [@Proconsulates Github](https://github.com/Lucas-02/)<br/>
+> [Join our Discord Server](https://discord.st/Legit-Programming)<br/>
+> [@Proconsulates#7263 Discord](https://discord.com/channels/@me)<br/>
